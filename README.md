@@ -110,6 +110,7 @@ The analysis identified several important patterns in the dataset.
 
 ---
 
+
 ## 6. Power BI Dashboards
 
 The Power BI report contains three interactive dashboard pages.
@@ -127,7 +128,7 @@ Provides a high-level overview of the customer base and recorded insurance charg
 - Average Charges by Age Group
 - Customer Distribution by Region
 
-![Insurance Cost Overview](Power_BI/Insurance%20Cost%20Overview.png)
+![Insurance Cost Overview](./Power_BI/Insurance%20Cost%20Overview.png)
 
 ### Dashboard 2: Health & Lifestyle Analysis
 
@@ -141,7 +142,7 @@ Explores how smoking status, BMI and age are associated with recorded insurance 
 - Age vs Insurance Charges
 - Interactive slicers
 
-![Health & Lifestyle Analysis](Power_BI/Health%20%26%20Lifestyle%20Analysis.png)
+![Health & Lifestyle Analysis](./Power_BI/Health%20%26%20Lifestyle%20Analysis.png)
 
 ### Dashboard 3: Customer Segmentation & Cost Drivers
 
@@ -156,9 +157,8 @@ Compares customer groups and examines how recorded charges vary across different
 - Average Charges by Gender and Smoking Status
 - Interactive slicers
 
-![Customer Segmentation & Cost Drivers](Power_BI/Customer%20Segmentation%20%26%20Cost%20Drivers.png)
+![Customer Segmentation & Cost Drivers](./Power_BI/Customer%20Segmentation%20%26%20Cost%20Drivers.png)
 
----
 
 ## 7. Business Recommendations
 
