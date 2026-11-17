@@ -142,6 +142,7 @@ Explores how smoking status, BMI and age are associated with recorded insurance 
 - Age vs Insurance Charges
 - Interactive slicers
 
+
 ![Health & Lifestyle Analysis](./Power_BI/Health%20%26%20Lifestyle%20Analysis.png)
 
 ### Dashboard 3: Customer Segmentation & Cost Drivers
